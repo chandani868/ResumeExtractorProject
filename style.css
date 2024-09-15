@@ -1,0 +1,20 @@
+*{
+    margin: 30;
+    padding: 30;
+    background-color: rgb(157, 179, 183);
+} 
+.openai{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    margin: right 60px;;
+    
+}
+.para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: blue;
+}
+.clr-btn{
+    padding: 20px;
+    color: ;
+}
